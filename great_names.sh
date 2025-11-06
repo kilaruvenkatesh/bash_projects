@@ -8,5 +8,5 @@ do
         break
     fi
 
-    echo "Hello $name 👋"
+    echo "Hello $name 👋" | tee -a output.txt
 done

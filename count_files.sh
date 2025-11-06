@@ -1,4 +1,4 @@
 #!/bin/bash
 
 count=$(ls -1 | wc -l)
-echo "Total files in current directory: $count"
+echo "Total files in current directory: $count" | tee -a output.txt
