@@ -2,3 +2,5 @@ Result = 13
 Total files in current directory: 5
 Total files in current directory: 5
 Result = 64
+Fahrenheit = 150
+541°C = 1005°F
